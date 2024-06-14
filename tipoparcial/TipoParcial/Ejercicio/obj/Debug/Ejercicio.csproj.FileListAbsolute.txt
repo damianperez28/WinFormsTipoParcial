@@ -1,0 +1,11 @@
+C:\Users\Damian\Desktop\tipoparcial\TipoParcial\Ejercicio\bin\Debug\Ejercicio.exe.config
+C:\Users\Damian\Desktop\tipoparcial\TipoParcial\Ejercicio\bin\Debug\Ejercicio.exe
+C:\Users\Damian\Desktop\tipoparcial\TipoParcial\Ejercicio\bin\Debug\Ejercicio.pdb
+C:\Users\Damian\Desktop\tipoparcial\TipoParcial\Ejercicio\obj\Debug\Ejercicio.csproj.AssemblyReference.cache
+C:\Users\Damian\Desktop\tipoparcial\TipoParcial\Ejercicio\obj\Debug\Ejercicio.Form1.resources
+C:\Users\Damian\Desktop\tipoparcial\TipoParcial\Ejercicio\obj\Debug\Ejercicio.Form2.resources
+C:\Users\Damian\Desktop\tipoparcial\TipoParcial\Ejercicio\obj\Debug\Ejercicio.Properties.Resources.resources
+C:\Users\Damian\Desktop\tipoparcial\TipoParcial\Ejercicio\obj\Debug\Ejercicio.csproj.GenerateResource.cache
+C:\Users\Damian\Desktop\tipoparcial\TipoParcial\Ejercicio\obj\Debug\Ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\Damian\Desktop\tipoparcial\TipoParcial\Ejercicio\obj\Debug\Ejercicio.exe
+C:\Users\Damian\Desktop\tipoparcial\TipoParcial\Ejercicio\obj\Debug\Ejercicio.pdb
